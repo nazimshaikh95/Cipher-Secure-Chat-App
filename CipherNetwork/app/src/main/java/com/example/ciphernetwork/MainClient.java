@@ -24,7 +24,7 @@ public class MainClient extends AppCompatActivity
     String SERVER_IP,userName;
     int SERVER_PORT;
 
-    //////////Hello Change
+    //////////Remove Change
     TextView heading;
     EditText simple,cipher;
     RadioButton text,number;
