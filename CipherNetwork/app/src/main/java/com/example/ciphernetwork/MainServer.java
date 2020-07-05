@@ -32,7 +32,7 @@ public class MainServer extends AppCompatActivity
 
     String message,userName;
 
-    ////////////////
+    /////////////////
     TextView heading;
     EditText simple,cipher;
     RadioButton text,number;
