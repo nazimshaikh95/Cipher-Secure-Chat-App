@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CipherNetwork</string>
+    <string name="title_activity_main_server">MainServer</string>
+</resources>
